@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kwa1
+- 👋 Hi, I’m @amakwa1
 - 👀 I’m interested in sql,python,lunix ,aws and Devops
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on devops,database projects
