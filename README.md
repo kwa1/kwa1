@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amankwa1
-- 👀 I’m interested in sql,python,lunix ,aws and Devops
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in sql,python,lunix ,aws,azure,security, and Devops
+- 🌱 I’m currently exploring ...
 - 💞️ I’m looking to collaborate on devops,database projects
 - 📫 How to reach me d.amankwa@outlook.com
 
